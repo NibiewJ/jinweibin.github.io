@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jinweibin.github.io/categories/</loc>
+    <loc>//jinweibin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jinweibin.github.io/</loc>
+    <loc>//jinweibin.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jinweibin.github.io/tags/</loc>
+    <loc>//jinweibin.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
